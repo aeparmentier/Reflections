@@ -30,8 +30,16 @@ benifits of debugging without affecting the master branch.
 How do the diagrams help you visualize the branch structure?
 diagrams help you visualize which commits are avalable as parents in a particulr
 branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result of merging two branches together is that we get a final commit that
+includes any lines that were added or stayed the same and disculdes any lines
+that were deleted. We draw it the way we do to show the parent history of the
+commits
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+automatic merging is easy and quick. doing merges manually allows control over
+which peices of code are added and deleted
