@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Using a remote repository has a few benefits
+1. keeping a backup of your work. If a local machine crashes your code and version history still exists.
+2. allows you to work on code from multiple locations and keep them synced
+3. allows many people to collaborate on projects & see and use the full version history
