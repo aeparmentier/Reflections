@@ -28,7 +28,8 @@ branches allow you to track these changes in a the same way and afford all the
 benifits of debugging without affecting the master branch.
 
 How do the diagrams help you visualize the branch structure?
-
+diagrams help you visualize which commits are avalable as parents in a particulr
+branch.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
