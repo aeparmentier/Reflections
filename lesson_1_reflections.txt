@@ -1,0 +1,9 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I did this excercise on windows using command prompt and the FC command.
+
+Being able to view changes allowed me to quickly pinpoint errors because it
+filtered out all the unchanged text and showed just the pertinant parts. While
+it would be possible to break something outside the scope of the changes. A
+funcion for instance. As a first check, the things that are changed are the most
+likely place for an error as simple typos are all it takes to break a program.
